@@ -35,3 +35,5 @@ The organization of this project is broken down into four domains:
 - **Archives** contain archived data from the previously mentioned areas.
 
 More information on this approach to project organization can be found at https://fortelabs.co/blog/para/.
+
+This project has been converted into an app. App code and additional details can be found at: https://github.com/alicerunsonfedora/sniglet
